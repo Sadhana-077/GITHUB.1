@@ -1,4 +1,4 @@
 value_1=5
 value_2=7
-sum=value_1+value_2
-print(sum)
+result=value_1+value_2
+print(result)
